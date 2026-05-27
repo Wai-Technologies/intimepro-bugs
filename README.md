@@ -63,7 +63,7 @@ Provide a concise description of the problem, including what is happening and wh
 
 Capture the context in which the issue occurs, such as:
 - Environment: Production / UAT / Staging / Development
-- Platform: Web / Mobile / Tablet
+- Platform: Web / Desktop
 - Browser and version
 - Operating system
 - User role
